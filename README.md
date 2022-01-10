@@ -1,2 +1,2 @@
 # animation-loader
-animation loader using html and css, js
+animation loader using html and css
